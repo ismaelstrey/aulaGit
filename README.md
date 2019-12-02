@@ -20,3 +20,6 @@ git nerge
 git status
 git log
 git branch
+
+ismael strey pereira
+cidade Igrejinha RS
