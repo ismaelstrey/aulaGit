@@ -17,11 +17,15 @@ git commit -m "mensagem"
 git push
 git pull
 git merge
+git merge <<nome da branche>>
 git status
 git log
 git branch
 git branch -D "nome da branch que deseja deletar"
 git branch -b "nome da branch a se criada"(cria e entra na branch)
+git rebase juntar dois arquivo 
+
+git commit -a -m "comentário" adicionar tudo em um único comando
 
 git checkout "nome da branch" *\\para trocar de branch\\*
 
