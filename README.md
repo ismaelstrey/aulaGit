@@ -13,17 +13,17 @@ O git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenv
 git add
 git clone
 git add
-git commit -m "messagem"
+git commit -m "mensagem"
 git push
 git pull
-git nerge
+git merge
 git status
 git log
 git branch
 git branch -D "nome da branch que deseja deletar"
 git branch -b "nome da branch a se criada"(cria e entra na branch)
 
-git checkout "nome da baranch" *\\para trocar de branch\\*
+git checkout "nome da branch" *\\para trocar de branch\\*
 
 
 
