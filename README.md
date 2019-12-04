@@ -20,6 +20,12 @@ git nerge
 git status
 git log
 git branch
+git branch -D "nome da branch que deseja deletar"
+git branch -b "nome da branch a se criada"(cria e entra na branch)
+
+git checkout "nome da baranch" *\\para trocar de branch\\*
+
+
 
 ismael strey pereira
 cidade Igrejinha RS
