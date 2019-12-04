@@ -1,0 +1,22 @@
+ 
+ II - <a href="mailto:contato@empresa.com"> 
+  I - <img src="email.jpg">
+ IV - </a>
+ II, I, IV.
+
+
+  IV - <img src="telefone.png">
+
+  I - <a href="tel:1234567890"> 
+  III - <p>Ligue agora!  
+  V - </p> 
+  II - </a> 
+  VI - <p>
+
+VI - <p>
+II - Entre em contato 
+V - </p> 
+IV - <a href="mailto:contato@empresa.com.br"> 
+I - <img src="email.jpg">
+III - </a>
+  

@@ -25,6 +25,7 @@ git branch -D "nome da branch que deseja deletar"
 git branch -b "nome da branch a se criada"(cria e entra na branch)
 git rebase juntar dois arquivo 
 git reset HEAD nome do arquivo
+git checkout -- NOME_DO_ARQUIVO  você quer 'reset' as alterações de um arquivo
 
 git commit -a -m "comentário" adicionar tudo em um único comando
 
